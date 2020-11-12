@@ -12,4 +12,6 @@
 
     $arquivo = fopen("exemplo-03.php", "r");
 
+    $null = null;
+
 ?>
